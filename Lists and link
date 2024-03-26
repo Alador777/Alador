@@ -8,8 +8,12 @@
 </head>
 <body>
   <ul>
+    <li>List</li>
+    <li>Another list</li>
    <li>List</li>
    <ol>
+     <li>list</li>
+     <li>Another list</li>
      <li>First</li>
      <li>Second</li>
    </ol>
