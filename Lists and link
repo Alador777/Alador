@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <ul>
+   <li>List</li>
+   <ol>
+     <li>First</li>
+     <li>Second</li>
+   </ol>
+ </ul>
+  <ol>
+    <li>List</li>
+    <li>Another list</li> 
+  </ol>
+ This is <a href="https://www.google.com">Google</a>
+</body>
+</html>
